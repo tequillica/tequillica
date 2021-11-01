@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tequillica
 - 👀 I’m interested in graphic design, drawing, salsa dancing :)
 - 🌱 I’m currently learning basics of code
-- 💞️ I’m looking to collaborate on anzthing that can improve me and be interesting.
+- 💞️ I’m looking to collaborate on anything that can improve me and be interesting.
 - 📫 How to reach me ...
 
 <!---
